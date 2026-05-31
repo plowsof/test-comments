@@ -1,5 +1,2 @@
-# test-comments
-kjn
-kjnkj
-kjn
+# test-comment
 kjn
